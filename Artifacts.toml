@@ -1,26 +1,26 @@
 [[CUDNN_CUDA110]]
 arch = "x86_64"
-git-tree-sha1 = "88dc9adaa9ab5841c6d61f4cb3105ebacd95b95d"
+git-tree-sha1 = "1ef442de951e9f8fcac528402d221d4588bc3754"
 libc = "glibc"
 os = "linux"
 
     [[CUDNN_CUDA110.download]]
-    sha256 = "6d89beb510c01a176d467fb2e3ac431341b7930ae1091f6a0d42556b39eaa8c8"
-    url = "https://github.com/JuliaBinaryWrappers/CUDNN_CUDA110_jll.jl/releases/download/CUDNN_CUDA110-v8.0.2+0/CUDNN_CUDA110.v8.0.2.x86_64-linux-gnu.tar.gz"
+    sha256 = "ff52f8f5ead4ff191c8bc46c64b57fd42f6825396eecf74a1f2fd8dcdf6d0a15"
+    url = "https://github.com/JuliaBinaryWrappers/CUDNN_CUDA110_jll.jl/releases/download/CUDNN_CUDA110-v8.0.3+0/CUDNN_CUDA110.v8.0.3.x86_64-linux-gnu.tar.gz"
 [[CUDNN_CUDA110]]
 arch = "powerpc64le"
-git-tree-sha1 = "e8b397697524c60694e48c80749bf6b54f237e64"
+git-tree-sha1 = "d6209fcc0d218acf6807463cbe678ecf923f97ed"
 libc = "glibc"
 os = "linux"
 
     [[CUDNN_CUDA110.download]]
-    sha256 = "dc96d3e988e12562cef500f67cca0bd0fcc48684b4da6bfd1460ae0c81edf46d"
-    url = "https://github.com/JuliaBinaryWrappers/CUDNN_CUDA110_jll.jl/releases/download/CUDNN_CUDA110-v8.0.2+0/CUDNN_CUDA110.v8.0.2.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "73436fbc9bcd3a7edcd68b427c4d3e99409183accbc9e3946f2a106d7d7102ef"
+    url = "https://github.com/JuliaBinaryWrappers/CUDNN_CUDA110_jll.jl/releases/download/CUDNN_CUDA110-v8.0.3+0/CUDNN_CUDA110.v8.0.3.powerpc64le-linux-gnu.tar.gz"
 [[CUDNN_CUDA110]]
 arch = "x86_64"
-git-tree-sha1 = "c68026379752255051652cc354aab4c74bd21dec"
+git-tree-sha1 = "f8b73aecbd12f0a83e5ebb896078484482f182d4"
 os = "windows"
 
     [[CUDNN_CUDA110.download]]
-    sha256 = "41eeb517b0addb41cf204a4c0f7082a9af031fe734b5067675bde6b40733b2d1"
-    url = "https://github.com/JuliaBinaryWrappers/CUDNN_CUDA110_jll.jl/releases/download/CUDNN_CUDA110-v8.0.2+0/CUDNN_CUDA110.v8.0.2.x86_64-w64-mingw32.tar.gz"
+    sha256 = "ab7c66a63a33f19d0f172e99966d1a8dec6e54b746f7f8c23ffe786207d5c542"
+    url = "https://github.com/JuliaBinaryWrappers/CUDNN_CUDA110_jll.jl/releases/download/CUDNN_CUDA110-v8.0.3+0/CUDNN_CUDA110.v8.0.3.x86_64-w64-mingw32.tar.gz"
